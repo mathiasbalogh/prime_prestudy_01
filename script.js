@@ -1,1 +1,3 @@
-console.log("Hey my script is working!");
+function doesItWork(){
+  console.log("Hey this works!");
+}
